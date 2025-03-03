@@ -126,9 +126,9 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 vague prompt: Tell me about dogs
-improved prompt: whata re the most common dog breeds and their key characteristics?
+improved prompt: what are the most common dog breeds and their key characteristics?
 
 why is the improved prompt more effective?
-it is more specific since it focuses on dog breeds instead of a broad topic
-it has a clear objective since it directs AI to provide useful details
-it is consise- shoert but clearly structured for a better response
+- it is more specific since it focuses on dog breeds instead of a broad topic
+- it has a clear objective since it directs AI to provide useful details
+- it is consise- shoert but clearly structured for a better response
